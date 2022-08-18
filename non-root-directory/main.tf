@@ -2,5 +2,5 @@ resource "null_resource" "null" {
 }
 
 output "myoutput" {
-  value = "This run has been triggered from my non-root-directory hoping this is not triggering"
+  value = "This run has been triggered from my non-root-directory"
 }
