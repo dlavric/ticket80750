@@ -2,5 +2,5 @@ resource "null_resource" "null" {
 }
 
 output "myoutput" {
-  value = "This run has been triggered from my root-directory checking if this triggers a run"
+  value = "This run has been triggered from my root-directory Daniela triggers a run"
 }
